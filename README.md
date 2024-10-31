@@ -4,7 +4,7 @@
 ---------------------------------------------------------------------------------------------------------
 ### Pipeline Diagram
 ![RAG Pipeline Diagram](RAG_pipeline.png)
-###  [Working Demo](https://github.com/0x-d15c0/Baymax/blob/main/DEMo%20(1).mp4)
+[![Working Demo](https://github.com/0x-d15c0/Baymax/blob/main/cover.png)](https://github.com/0x-d15c0/Baymax/blob/main/DEMo%20(1).mp4)
 ---------------------------------------------------------------------------------------------------------
 
 
