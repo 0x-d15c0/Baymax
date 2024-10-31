@@ -4,7 +4,9 @@
 ---------------------------------------------------------------------------------------------------------
 ### Pipeline Diagram
 ![RAG Pipeline Diagram](RAG_pipeline.png)
+###  [Working Demo](https://github.com/0x-d15c0/Baymax/blob/main/DEMo%20(1).mp4)
 ---------------------------------------------------------------------------------------------------------
+
 
 ### Key Features
 - Personalized Healthcare Responses: Customizes responses based on user-provided age, dietary restrictions, and fitness goals.<br>
