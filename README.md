@@ -8,7 +8,7 @@ Baymax is a healthcare chatbot assistant built to provide users with accessible,
 - Personal History Storage: Stores user information to enhance response accuracy.<br>
 
 ----------------------------------------------------------------------------------------------------------
-###Technology Stack
+### Technology Stack
 - FastAPI: Backend framework for handling API requests.
 - Streamlit: Frontend for user interaction.
 - LangChain: To manage the RAG architecture and chain setup.
