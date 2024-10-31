@@ -1,5 +1,6 @@
 # 🤖🩺 Baymax - Your Personal Healthcare Companion
-Baymax is a healthcare chatbot assistant built to provide users with accessible, relevant, and reliable health information. The chatbot uses Retrieval-Augmented Generation (RAG) to search a vector database of healthcare data, then generates personalized responses using a powerful language model, ensuring both contextually accurate and well-informed replies.
+
+#### Baymax is a healthcare chatbot assistant built to provide users with accessible, relevant, and reliable health information. The chatbot uses Retrieval-Augmented Generation (RAG) to search a vector database of healthcare data, then generates personalized responses using a powerful language model, ensuring both contextually accurate and well-informed replies.
 ---------------------------------------------------------------------------------------------------------
 ### Pipeline Diagram
 ![RAG Pipeline Diagram](RAG_pipeline.png)
